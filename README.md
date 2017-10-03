@@ -3,7 +3,7 @@ Extensão para Chrome que possibilita a cópia de textos do site appprova
 
 1. Instalação
 - Certifique-se que você utiliza o navegador Chrome
-- Faça o download do repositório clicando em "Download ZIP"
+- Faça o download do repositório clicando em "clone or download" depois em "Download ZIP"
 - Extraia o arquivo
 - Em seu navegador acesse a guia de extensões "chrome://extensions/"
 - Habilite a opção de "Mode de desenvolvedor"
