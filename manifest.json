@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+
+  "name": "Cola AppProva",
+  "description": "Extensão para Chrome que possibilita a cópia de textos do site appprova",
+  "version": "1.0",
+
+    "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["style.css"],
+      "js": ["jquery.js", "functions.js"]
+    }
+  ],
+
+  "browser_action": {
+    "default_icon": "img/icon.png",
+    "default_popup": "popup.html"
+  },
+
+  "icons": { 
+    "16": "img/16.png",
+    "32": "img/32.png",
+    "64": "img/64.png",
+    "128": "img/128.png"
+  },
+
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+  
+}
