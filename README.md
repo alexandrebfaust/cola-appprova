@@ -11,6 +11,7 @@ Extensão para Chrome que possibilita a cópia de textos do site appprova
 - Selecione a pasta onde você extraiu o ZIP
 - Feito!
 
+
 2. Como usar
 - Após ter realizado a instalação, você pode acessar a plataforma do AppProva, 
 e no canto inferior direito você pode localizar dois botões, "On" e "Off".
