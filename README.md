@@ -4,6 +4,9 @@ Extensão para Chrome que possibilita a cópia de textos do site appprova
 # *AVISO*
 Vale lembrar que este é um aplicativo aberto, não nos responsabilizamos por quaisquer danos causados ao usuário e também seu mau uso.
 
+*Passo a passo para instalação e como usar*
+https://youtu.be/8rSCBf9-97s
+
 1. Instalação
 - Certifique-se que você utiliza o navegador Chrome
 - Faça o download do repositório clicando em "clone or download" depois em "Download ZIP"
