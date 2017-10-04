@@ -1,7 +1,7 @@
 # cola-appprova
 Extensão para Chrome que possibilita a cópia de textos do site appprova
 
-*AVISO*
+# *AVISO*
 Vale lembrar que este é um aplicativo aberto, não nos responsabilizamos por quaisquer danos causados ao usuário e também seu mau uso.
 
 
