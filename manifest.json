@@ -1,9 +1,9 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 4,
 
   "name": "Cola AppProva",
   "description": "Extensão para Chrome que possibilita a cópia de textos do site appprova",
-  "version": "1.0",
+  "version": "1.01",
 
     "content_scripts": [
     {
